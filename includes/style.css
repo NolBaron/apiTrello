@@ -1,0 +1,7 @@
+.dropdown {list-style: none; display: inline-block;}
+.dropdown .nav-link {color:#fff; text-decoration: none;}
+.dropdown .dropdown-menu a{color: #000; text-decoration: none;}
+.dropdown>div {background: grey; color:#fff;}
+
+.this-height{ min-height: 200px; }
+.container{margin-top: 20px; max-width: 100%}
